@@ -20,10 +20,23 @@ After the Installation part. Go into your Browser, and visit "localhost:3001/api
 ## Node.js Installation ##
 for the case you dont have node.js.
 
+# Linux #
 ```bash
 #installing latest stable Nodejs
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install -y nodejs
+```
+
+## Windows ###
+
+```
+https://nodejs.org/en/download/
+```
+
+## MacOS ##
+
+```
+https://nodejs.org/en/download/
 ```
 
 
