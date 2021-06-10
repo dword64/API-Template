@@ -1,0 +1,12 @@
+{
+    "ApiExample": {
+        "MainPage":"Welcome to the Mainpage, visit /api/example for more"
+
+    },
+    "example": {
+        "Name":"Smith",
+        "Firstname":"John",
+        "Age":"33"
+
+    }
+}
